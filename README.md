@@ -1,2 +1,2 @@
-# PythonBasics_DSA
-To introduce git concepts.
+# DSA Practice
+Uploading the miscellaneous coding sessions during the course and other practice things.
